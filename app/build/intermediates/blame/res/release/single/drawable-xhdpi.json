@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/totrinh/Downloads/SpeechToText1/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/totrinh/Downloads/SpeechToText1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/totrinh/Downloads/SpeechToText1/app/build/intermediates/res/merged/release/drawable-xhdpi/ico_mic.png",
+        "source": "/Users/totrinh/Downloads/SpeechToText1/app/src/main/res/drawable-xhdpi/ico_mic.png"
+    },
+    {
+        "merged": "/Users/totrinh/Downloads/SpeechToText1/app/build/intermediates/res/merged/release/drawable-xhdpi/jira.png",
+        "source": "/Users/totrinh/Downloads/SpeechToText1/app/src/main/res/drawable-xhdpi/jira.png"
+    }
+]
